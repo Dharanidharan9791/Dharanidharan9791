@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dharanidharan
 - 👀 I’m interested in ... Full Stack Web Development
-- 🌱 I’m currently learning ... J-script
 - 💞️ I’m looking to collaborate as an ... Web Developer
 - 📫 How to reach me ... reach on @ dharanidharan9791@gmail.com
 
